@@ -30,6 +30,7 @@ numGenerator.addEventListener("click", function(){
     
 })
 
+//funzione per controllare i numeri inseriti dall'utente
 function rightNum(numArr, userNumArr, showResult){
     let count = 0;
     let countRights = [];
@@ -62,6 +63,7 @@ function askNumbers(numArr, userNumArr, showResult){
         
     }
     console.log(userNumArr);
+    //richiamo la funzione per controllare i numeri inseriti dall'utente
     rightNum(numArr, userNumArr, showResult);
 }
 
