@@ -1,0 +1,24 @@
+body{
+    background-image: url(img/vertmonde-progetti-gallery-06.jpg);
+    background-size: cover;    
+}
+
+#dm_bg_num{    
+    padding: 20px;
+}
+
+#dm_button{
+    font-size: 25px;
+    color: #ff2400;
+    font-weight: bold;    
+    border: 3px solid rgb(67, 144, 196);
+    border-radius: 10px;
+}
+
+.dm_numbers{
+    background-color: rgb(25, 25, 35);
+    font-size: 50px;
+    padding: 10px;
+    color: rgb(251, 254, 249);
+    border-radius: 10px;
+}
